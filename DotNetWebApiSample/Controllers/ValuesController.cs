@@ -18,7 +18,7 @@ namespace DotNetWebApiSample.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value1";
+            return "value2";
         }
 
         // POST api/values
